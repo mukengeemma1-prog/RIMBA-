@@ -1,6 +1,7 @@
 {
   "name": "RIMBA",
   "short_name": "RIMBA",
+  "description": "Cahier de gestion pour petits commerces : ventes, stock, clients et factures.",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
